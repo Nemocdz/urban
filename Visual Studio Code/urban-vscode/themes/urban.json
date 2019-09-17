@@ -32,9 +32,9 @@
 		"editorLineNumber.activeForeground": "#E7E8EB",
 		"editorLink.foreground": "#74B6F6",
 
-		"input.foreground": "#23252B",
-		"input.background" : "#FFFFFF",
-		"input.placeholderForeground": "#6C7986",
+		"input.background": "#2B2B2B",
+    	"input.foreground": "#EEFFFF",
+    	"input.placeholderForeground": "#EEFFFF60",
 		"input.border": "#6C7986",
 
 		"sideBar.background": "#1a1a1a",
@@ -44,13 +44,10 @@
     	"sideBarSectionHeader.background": "#1a1a1a",
     	"sideBarSectionHeader.border": "#00000060",
 
-		"button.foreground": "#E7E8EB",
-		"button.background": "#0A6FFF",
-		"button.hoverBackground": "#2489FF",
+    	"button.background": "#61616150",
 		"progressBar.background": "#6543E9",
-		"dropdown.foreground": "#23252B",
-		"dropdown.background": "#E7E8EB",
-		"dropdown.border": "#23252B",
+		"dropdown.background": "#212121",
+    	"dropdown.border": "#FFFFFF10",
 
 		"activityBar.background": "#1a1a1a",
     	"activityBar.border": "#00000060",
